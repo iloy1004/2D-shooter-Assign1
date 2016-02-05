@@ -69,7 +69,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Scripts\BatContoller.cs" />
+    <Compile Include="Assets\_Scripts\CharactorColider.cs" />
     <Compile Include="Assets\_Scripts\CharactorController.cs" />
+    <Compile Include="Assets\_Scripts\GameController.cs" />
+    <Compile Include="Assets\_Scripts\GunController.cs" />
     <Compile Include="Assets\_Scripts\LandscapeController.cs" />
     <Compile Include="Assets\_Scripts\ZomebieController.cs" />
   </ItemGroup>

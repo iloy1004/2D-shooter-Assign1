@@ -3,15 +3,19 @@ using System.Collections;
 
 public class CharactorController : MonoBehaviour {
 
-    private float _playInput;
+    private float _playInput_y;
+    private float _playInput_x;
     private Transform _transform;
-    private Vector2 _currentPosition;
+    private float _currentPosition_y;
+    private float _currentPosition_x;
 
     //Public instanc variables
     public float speed = 5f;
     public Sprite charactor_splite_0;
     public Sprite charactor_splite_1;
     public SpriteRenderer sr;
+    
+
 
     // Use this for initialization
     void Start () {
@@ -23,28 +27,22 @@ public class CharactorController : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
-        this._currentPosition = this._transform.position;
+        this._currentPosition_x = this._transform.position.x;
+        this._currentPosition_y = this._transform.position.y;
 
-        this._playInput = Input.GetAxis("Vertical");
-        Debug.Log(this._playInput);
+        this._playInput_y = Input.GetAxis("Vertical");
+        this._playInput_x = Input.GetAxis("Horizontal");
 
-        if(this._playInput>0)
-        {
-            this._currentPosition += new Vector2(0, this.speed);
-            sr.sprite = charactor_splite_1;
-        }
 
-        if(this._playInput<0)
-        {
-            this._currentPosition -= new Vector2(0, this.speed);
-            sr.sprite = charactor_splite_1;
-        }
-
+        //move position and check bounds
+        this._changePosition();
         this._checkBounds();
+        
+        //this._changeCharactor();
+        this._transform.position = new Vector2 (this._currentPosition_x, this._currentPosition_y);
 
-        this._changeCharactor();
-        this._transform.position = this._currentPosition;
-	}
+  
+    }
 
     private void _changeCharactor()
     {
@@ -54,14 +52,39 @@ public class CharactorController : MonoBehaviour {
 
     private void _checkBounds()
     {
-        if (this._currentPosition.y < -290)
+        if (this._currentPosition_y < -290f)
         {
-            this._currentPosition.y = -290;
+            this._currentPosition_y = -290f;
         }
 
-        if (this._currentPosition.y > 290)
+        if (this._currentPosition_y > 290f)
         {
-            this._currentPosition.y = 290;
+            this._currentPosition_y = 290f;
+        }
+    }
+
+    private void _changePosition()
+    {
+        if (this._playInput_y > 0)
+        {
+            this._currentPosition_y += this.speed;
+            sr.sprite = charactor_splite_1;
+        }
+        if (this._playInput_y < 0)
+        {
+            this._currentPosition_y -= this.speed;
+            sr.sprite = charactor_splite_1;
+        }
+
+        if (this._playInput_x > 0)
+        {
+            this._currentPosition_x += this.speed;
+            sr.sprite = charactor_splite_1;
+        }
+        if (this._playInput_x < 0)
+        {
+            this._currentPosition_x -= this.speed;
+            sr.sprite = charactor_splite_1;
         }
     }
 }

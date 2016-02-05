@@ -28,9 +28,6 @@ public class BatContoller : MonoBehaviour {
         this.speed = Random.Range(5f, 15f);
         this.height = Random.Range(-10f, 10f);
 
-        Debug.Log(speed);
-        Debug.Log(height);
-
         this._currentPosition = this._transform.position;
         this._currentPosition.x -= this.speed;
         this._currentPosition.y -= this.height;
