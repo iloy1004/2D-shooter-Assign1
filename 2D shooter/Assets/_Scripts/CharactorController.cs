@@ -62,14 +62,22 @@ public class CharactorController : MonoBehaviour {
 
     private void _checkBounds()
     {
-        if (this._currentPosition_y < -290f)
+        if (this._currentPosition_y > 165f)
         {
-            this._currentPosition_y = -290f;
+            this._currentPosition_y = 165f;
+        }
+        if (this._currentPosition_y < -178f)
+        {
+            this._currentPosition_y = -178f;
         }
 
-        if (this._currentPosition_y > 290f)
+        if (this._currentPosition_x < -369f)
         {
-            this._currentPosition_y = 290f;
+            this._currentPosition_x = -369f;
+        }
+        if (this._currentPosition_x > 369f)
+        {
+            this._currentPosition_x = 369f;
         }
     }
 
