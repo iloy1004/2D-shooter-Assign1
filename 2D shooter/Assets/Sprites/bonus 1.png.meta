@@ -1,0 +1,1557 @@
+fileFormatVersion: 2
+guid: 1823af29730a00d4a96ff25ea9ebe8f0
+timeCreated: 1454654133
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: bonus 1_0
+    21300002: bonus 1_1
+    21300004: bonus 1_2
+    21300006: bonus 1_3
+    21300008: bonus 1_4
+    21300010: bonus 1_5
+    21300012: bonus 1_6
+    21300014: bonus 1_7
+    21300016: bonus 1_8
+    21300018: bonus 1_9
+    21300020: bonus 1_10
+    21300022: bonus 1_11
+    21300024: bonus 1_12
+    21300026: bonus 1_13
+    21300028: bonus 1_14
+    21300030: bonus 1_15
+    21300032: bonus 1_16
+    21300034: bonus 1_17
+    21300036: bonus 1_18
+    21300038: bonus 1_19
+    21300040: bonus 1_20
+    21300042: bonus 1_21
+    21300044: bonus 1_22
+    21300046: bonus 1_23
+    21300048: bonus 1_24
+    21300050: bonus 1_25
+    21300052: bonus 1_26
+    21300054: bonus 1_27
+    21300056: bonus 1_28
+    21300058: bonus 1_29
+    21300060: bonus 1_30
+    21300062: bonus 1_31
+    21300064: bonus 1_32
+    21300066: bonus 1_33
+    21300068: bonus 1_34
+    21300070: bonus 1_35
+    21300072: bonus 1_36
+    21300074: bonus 1_37
+    21300076: bonus 1_38
+    21300078: bonus 1_39
+    21300080: bonus 1_40
+    21300082: bonus 1_41
+    21300084: bonus 1_42
+    21300086: bonus 1_43
+    21300088: bonus 1_44
+    21300090: bonus 1_45
+    21300092: bonus 1_46
+    21300094: bonus 1_47
+    21300096: bonus 1_48
+    21300098: bonus 1_49
+    21300100: bonus 1_50
+    21300102: bonus 1_51
+    21300104: bonus 1_52
+    21300106: bonus 1_53
+    21300108: bonus 1_54
+    21300110: bonus 1_55
+    21300112: bonus 1_56
+    21300114: bonus 1_57
+    21300116: bonus 1_58
+    21300118: bonus 1_59
+    21300120: bonus 1_60
+    21300122: bonus 1_61
+    21300124: bonus 1_62
+    21300126: bonus 1_63
+    21300128: bonus 1_64
+    21300130: bonus 1_65
+    21300132: bonus 1_66
+    21300134: bonus 1_67
+    21300136: bonus 1_68
+    21300138: bonus 1_69
+    21300140: bonus 1_70
+    21300142: bonus 1_71
+    21300144: bonus 1_72
+    21300146: bonus 1_73
+    21300148: bonus 1_74
+    21300150: bonus 1_75
+    21300152: bonus 1_76
+    21300154: bonus 1_77
+    21300156: bonus 1_78
+    21300158: bonus 1_79
+    21300160: bonus 1_80
+    21300162: bonus 1_81
+    21300164: bonus 1_82
+    21300166: bonus 1_83
+    21300168: bonus 1_84
+    21300170: bonus 1_85
+    21300172: bonus 1_86
+    21300174: bonus 1_87
+    21300176: bonus 1_88
+    21300178: bonus 1_89
+    21300180: bonus 1_90
+    21300182: bonus 1_91
+    21300184: bonus 1_92
+    21300186: bonus 1_93
+    21300188: bonus 1_94
+    21300190: bonus 1_95
+    21300192: bonus 1_96
+    21300194: bonus 1_97
+    21300196: bonus 1_98
+    21300198: bonus 1_99
+    21300200: bonus 1_100
+    21300202: bonus 1_101
+    21300204: bonus 1_102
+    21300206: bonus 1_103
+    21300208: bonus 1_104
+    21300210: bonus 1_105
+    21300212: bonus 1_106
+    21300214: bonus 1_107
+    21300216: bonus 1_108
+    21300218: bonus 1_109
+    21300220: bonus 1_110
+    21300222: bonus 1_111
+    21300224: bonus 1_112
+    21300226: bonus 1_113
+    21300228: bonus 1_124
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: bonus 1_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_1
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_3
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 469
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 468
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 469
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 469
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_7
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 468
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_8
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 469
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_9
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 468
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_10
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_11
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_13
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_14
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 469
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_16
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 438
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_17
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_18
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 437
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_19
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_20
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_21
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 437
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_22
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_23
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 438
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_24
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 438
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_26
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 438
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_27
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 437
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_28
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 437
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_29
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 437
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_31
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 405
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_32
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_33
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 405
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_34
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_35
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_36
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_37
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_38
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_39
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_40
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_41
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 405
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 405
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_43
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 405
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_44
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 405
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 372
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_46
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 372
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_47
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_48
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_49
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_50
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 372
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_51
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 371
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_52
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 372
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_53
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_54
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_55
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 372
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_56
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 372
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_57
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 372
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_58
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 372
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 339
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_61
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 339
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_62
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_63
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_64
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_65
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 339
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_66
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 339
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_67
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 339
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_68
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_70
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_71
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_72
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 339
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_73
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 339
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_74
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 339
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_76
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_77
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 306
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_78
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_79
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_80
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_81
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_82
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 306
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_84
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_85
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 306
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_86
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_87
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_88
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_89
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_91
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_92
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 273
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_93
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 273
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_94
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 273
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_95
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_97
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 273
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: bonus 1_98
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 183
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 27}
+        - {x: -31, y: 17}
+        - {x: -31, y: -21}
+        - {x: -23, y: -27}
+        - {x: 24, y: -27}
+        - {x: 29, y: -26}
+        - {x: 31, y: -17}
+        - {x: 31, y: 17}
+        - {x: 21, y: 27}
+    - name: bonus 1_99
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 181
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 31}
+        - {x: -29, y: -21}
+        - {x: -22, y: -30}
+        - {x: -16, y: -31}
+        - {x: 21, y: -31}
+        - {x: 29, y: -26}
+        - {x: 29, y: 31}
+    - name: bonus 1_100
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 184
+        width: 62
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 23}
+        - {x: -31, y: -17}
+        - {x: -16, y: -23}
+        - {x: 23, y: -23}
+        - {x: 31, y: -14}
+        - {x: 31, y: 23}
+    - name: bonus 1_101
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 184
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 31}
+        - {x: -8, y: 31}
+        - {x: -29, y: 8}
+        - {x: -29, y: -31}
+        - {x: 3, y: -31}
+        - {x: 27, y: -27}
+        - {x: 29, y: -26}
+        - {x: 29, y: 15}
+    - name: bonus 1_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 24}
+        - {x: -31, y: -24}
+        - {x: 25, y: -24}
+        - {x: 31, y: -16}
+        - {x: 31, y: 21}
+        - {x: 23, y: 24}
+    - name: bonus 1_103
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 185
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 24}
+        - {x: -31, y: 21}
+        - {x: -31, y: -13}
+        - {x: -26, y: -24}
+        - {x: 26, y: -24}
+        - {x: 31, y: -16}
+        - {x: 31, y: 24}
+    - name: bonus 1_104
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 185
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 25}
+        - {x: -31, y: 25}
+        - {x: -31, y: -19}
+        - {x: -23, y: -25}
+        - {x: 16, y: -25}
+        - {x: 31, y: -20}
+        - {x: 31, y: -3}
+        - {x: 27, y: 11}
+    - name: bonus 1_105
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 108
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.5, y: 31}
+        - {x: -28.5, y: 25}
+        - {x: -30.5, y: 15}
+        - {x: -30.5, y: -31}
+        - {x: 30.5, y: -31}
+        - {x: 30.5, y: 31}
+    - name: bonus 1_106
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 30}
+        - {x: -8, y: 30}
+        - {x: -31, y: 21}
+        - {x: -31, y: -30}
+        - {x: 4, y: -30}
+        - {x: 21, y: -26}
+        - {x: 31, y: -18}
+        - {x: 31, y: 22}
+    - name: bonus 1_107
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 110
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.5, y: 31}
+        - {x: -29.5, y: 21}
+        - {x: -29.5, y: -31}
+        - {x: 13.5, y: -31}
+        - {x: 29.5, y: -11}
+        - {x: 29.5, y: 25}
+        - {x: -0.5, y: 31}
+    - name: bonus 1_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 108
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: 31}
+        - {x: -26, y: 31}
+        - {x: -28, y: 20}
+        - {x: -28, y: -31}
+        - {x: 13, y: -31}
+        - {x: 24, y: -22}
+        - {x: 28, y: -8}
+        - {x: 28, y: 22}
+    - name: bonus 1_109
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 109
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -31, y: 14}
+        - {x: -31, y: 2}
+        - {x: -4, y: -27}
+        - {x: 4, y: -27}
+        - {x: 31, y: -2}
+        - {x: 31, y: 26}
+        - {x: 23, y: 27}
+    - name: bonus 1_110
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 108
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 27}
+        - {x: -31, y: 15}
+        - {x: -31, y: 2}
+        - {x: -5, y: -27}
+        - {x: 5, y: -27}
+        - {x: 31, y: -3}
+        - {x: 31, y: 12}
+        - {x: 23, y: 27}
+    - name: bonus 1_111
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 107
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27.5}
+        - {x: -31, y: 13.5}
+        - {x: -31, y: -4.5}
+        - {x: -4, y: -27.5}
+        - {x: 5, y: -27.5}
+        - {x: 31, y: -5.5}
+        - {x: 31, y: 15.5}
+        - {x: 25, y: 27.5}
+    - name: bonus 1_112
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -31, y: 15}
+        - {x: -31, y: -5}
+        - {x: -5, y: -27}
+        - {x: 5, y: -27}
+        - {x: 31, y: -6}
+        - {x: 31, y: 16}
+        - {x: 24, y: 27}
+    - name: bonus 1_113
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 44
+        width: 62
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 27}
+        - {x: -31, y: 15}
+        - {x: -31, y: -5}
+        - {x: -5, y: -27}
+        - {x: 5, y: -27}
+        - {x: 31, y: -5}
+        - {x: 31, y: 15}
+        - {x: 24, y: 27}
+    - name: bonus 1_124
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

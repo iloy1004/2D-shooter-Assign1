@@ -6,12 +6,18 @@ public class CharactorColider : MonoBehaviour {
     private AudioSource[] _audioSources;
     private AudioSource _laser;
     private AudioSource _scream;
+    private AudioSource _bonusSound;
+
     public GameController gameController;
+    public BatContoller bat;
+    public BonusController bonus;
+
     // Use this for initialization
     void Start () {
         this._audioSources = gameObject.GetComponents<AudioSource>();
         //this._laser = this._audioSources[0];
         this._scream = this._audioSources[0];
+        this._bonusSound = this._audioSources[1];
         
     }
 	
@@ -25,13 +31,33 @@ public class CharactorColider : MonoBehaviour {
         if(other.gameObject.CompareTag("Bat"))
         {
             this._scream.Play();
-            this.gameController.LivesValue -= 100;
+            this.gameController.LivesValue -= 1;
+            this.batReset();
         }
+        
         if (other.gameObject.CompareTag("Zombie2"))
         {
             this._scream.Play();
-            this.gameController.LivesValue -= 100;
+            this.gameController.LivesValue -= 1;
         }
 
+        if (other.gameObject.CompareTag("Bonus"))
+        {
+            this._bonusSound.Play();
+            this.gameController.ScoreValue += 100;
+            this.bonusReset();
+        }
+    }
+
+    //bat's position reset
+    public void batReset()
+    {
+        this.bat.Reset();
+    }
+
+    //bonus position reset
+    public void bonusReset()
+    {
+        this.bonus.Reset();
     }
 }

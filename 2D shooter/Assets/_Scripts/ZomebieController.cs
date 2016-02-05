@@ -4,11 +4,14 @@ using System.Collections;
 public class ZomebieController : MonoBehaviour {
 
     //Public instanc variables
-    public float speed = 3f;
+    public float minHorizontalSpeed = 10f;
+    public float maxHorizontalSpeed = 5f;
+
 
     //Private instance variables
     private Transform _transform;
     private Vector2 _currentPosition;
+    private float _horizontalSpeed;
 
 
     // Use this for initialization
@@ -16,7 +19,7 @@ public class ZomebieController : MonoBehaviour {
     {
         //Make a reference with the Transform Component
         this._transform = gameObject.GetComponent<Transform>();
-        // Reset the landscape to the top
+        // Reset the zombie to the top
         this.Reset();
 
     }
@@ -24,13 +27,12 @@ public class ZomebieController : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-        this.speed = Random.Range(3f, 6f);
 
         this._currentPosition = this._transform.position;
-        this._currentPosition -= new Vector2(this.speed, 0);
+        this._currentPosition -= new Vector2(this._horizontalSpeed, -104f);
         this._transform.position = this._currentPosition;
 
-        //Reset Zombie position
+        //Reset zombie position
         if (this._currentPosition.x <= -463)
         {
             this.Reset();
@@ -39,7 +41,7 @@ public class ZomebieController : MonoBehaviour {
 
     void Reset()
     {
-        //float yPosition = Random.Range(-85f, 135f);
-        this._transform.position = new Vector2(665f, -85f);
+        this._horizontalSpeed = Random.Range(this.minHorizontalSpeed, this.maxHorizontalSpeed);
+        this._transform.position = new Vector2(486f, -104f);
     }
 }
