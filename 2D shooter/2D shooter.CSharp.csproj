@@ -69,9 +69,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\_Scripts\BatContoller.cs" />
+    <Compile Include="Assets\_Scripts\BeamController.cs" />
     <Compile Include="Assets\_Scripts\BonusController.cs" />
     <Compile Include="Assets\_Scripts\CharactorColider.cs" />
     <Compile Include="Assets\_Scripts\CharactorController.cs" />
+    <Compile Include="Assets\_Scripts\Destroyer.cs" />
     <Compile Include="Assets\_Scripts\GameController.cs" />
     <Compile Include="Assets\_Scripts\GunController.cs" />
     <Compile Include="Assets\_Scripts\LandscapeController.cs" />

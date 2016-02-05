@@ -42,6 +42,7 @@ public class GameController : MonoBehaviour {
 
     public int batCount=3;
     public BatContoller bat;
+    public ZomebieController zombie;
     public CharactorController spaceMan;
     public BonusController bonus;
     public Text LivesLabel;
@@ -74,6 +75,8 @@ public class GameController : MonoBehaviour {
         {
             Instantiate(bat.gameObject);
         }
+
+        Instantiate(zombie.gameObject);
     }
 
     private void _endGame()
