@@ -36,6 +36,9 @@ public class ZomebieController : MonoBehaviour {
         // Reset the zombie to the top
         this.Reset();
 
+        this._audioSources = gameObject.GetComponents<AudioSource>();
+        //this._laser = this._audioSources[0];
+        this._bomb = this._audioSources[0];
     }
 
     // Update is called once per frame
@@ -43,11 +46,12 @@ public class ZomebieController : MonoBehaviour {
     {
 
         this._currentPosition = this._transform.position;
-        this._currentPosition += new Vector2(this._horizontalSpeed, -104f);
+        this._currentPosition.x -= this._horizontalSpeed;
+        this._currentPosition.y = -104f;
         this._transform.position = this._currentPosition;
 
         //Reset zombie position
-        if (this._currentPosition.x <= -463)
+        if (this._currentPosition.x <= -439)
         {
             this.Reset();
         }
@@ -61,7 +65,15 @@ public class ZomebieController : MonoBehaviour {
 
     void OnTriggerEnter2D(Collider2D col)
     {
-        if ((col.tag == "spaceMan") || (col.tag == "Beam"))
+        if ((col.tag == "spaceMan"))
+        {
+            playExplosion();
+            this._bomb.Play();
+            this.gameController.LivesValue -= 1;
+            //Destroy(gameObject);
+            this.Reset();
+        }
+        if ((col.tag == "Beam"))
         {
             playExplosion();
             this._bomb.Play();
@@ -69,6 +81,7 @@ public class ZomebieController : MonoBehaviour {
             //Destroy(gameObject);
             this.Reset();
         }
+
     }
 
     void playExplosion()
