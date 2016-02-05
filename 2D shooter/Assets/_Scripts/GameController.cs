@@ -2,7 +2,17 @@
 using System.Collections;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
-
+/*----------------------------------------------------------------------------
+Source file name: GameController.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 05, 2016
+Program description: This program controls the objects in the game.  This module has score and live values, labels, button, and game objects such as bat and player. 
+                     This program is the most important controller within entire modules for management of game.
+Revision history: 0.0 - Created document, and made basic methods, Start, Update and initialize()
+                  0.1 - Added lives and score values.
+                  1.0 - Added endGame method and restart button.
+----------------------------------------------------------------------------*/
 public class GameController : MonoBehaviour {
 
     private int _scoreValue;

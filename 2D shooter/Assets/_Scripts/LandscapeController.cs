@@ -1,6 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*----------------------------------------------------------------------------
+Source file name: LandscapeController.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 02, 2016
+Program description: This program controls to landscape object as scrolling background. This background image will be scrolling during the game continually.
+Revision history: 0.0 - Created document, and made movement
+----------------------------------------------------------------------------*/
+
 public class LandscapeController : MonoBehaviour {
 
     //Public instanc variables

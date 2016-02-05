@@ -1,6 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*----------------------------------------------------------------------------
+Source file name: BonusController.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 05, 2016
+Program description: This program controls to bonus object as positive score. Bonus object will be reset for its position when meet player.
+Revision history: 0.0 - Created document, and made basic methods, Start and Update()
+                  1.0 - Added reset method
+----------------------------------------------------------------------------*/
 public class BonusController : MonoBehaviour {
 
     //Public instanc variables
@@ -35,7 +44,7 @@ public class BonusController : MonoBehaviour {
         this._currentPosition -= new Vector2(this._horizontalSpeed, this._verticalSpeed);
         this._transform.position = this._currentPosition;
 
-        //Reset Bat position
+        //Reset bonus position
         if (this._currentPosition.x <= -463)
         {
             this.Reset();

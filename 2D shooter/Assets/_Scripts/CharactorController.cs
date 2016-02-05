@@ -1,6 +1,16 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*----------------------------------------------------------------------------
+Source file name: CharactorController.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 05, 2016
+Program description: This program controls to player objects as space man. This module just manage for movement of player.
+Revision history: 0.0 - Created document, and made basic methods, Start and Update()
+                  1.0 - Added change image when player is moving with engine under foots.
+----------------------------------------------------------------------------*/
+
 public class CharactorController : MonoBehaviour {
 
     private float _playInput_y;

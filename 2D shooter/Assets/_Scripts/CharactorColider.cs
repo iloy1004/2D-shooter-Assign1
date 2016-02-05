@@ -1,6 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+
+/*----------------------------------------------------------------------------
+Source file name: CharactorColider.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 05, 2016
+Program description: This program controls to collide between player and enemies.
+Revision history: 0.0 - Created document
+                  0.1 - Made Start() method
+                  1.0 - Complete variables, trigger even and reset method
+----------------------------------------------------------------------------*/
+
 public class CharactorColider : MonoBehaviour {
     //PRIVATE INSTANCE VARIABLES
     private AudioSource[] _audioSources;

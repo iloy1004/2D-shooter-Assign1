@@ -1,6 +1,15 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*----------------------------------------------------------------------------
+Source file name: BeamConroller.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 05, 2016
+Program description: This program controls to Beam object as player's bullet such as destruction when hit the enemies.
+Revision history: 0.0 - Created document, and made basic methods, Start and Update()
+                  1.0 - Added trigger even method
+----------------------------------------------------------------------------*/
 public class BeamController : MonoBehaviour {
 
     public float speed = 8f;

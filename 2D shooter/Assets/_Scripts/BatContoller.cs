@@ -1,6 +1,18 @@
 ﻿using UnityEngine;
 using System.Collections;
 
+/*----------------------------------------------------------------------------
+Source file name: BatController.cs
+Author's name: Jihee Seo
+Last modified by: Jihee Seo
+Last modified date: Feb 05, 2016
+Program description: This program controls to bat objects as player's enemies. Bat object will destroy when meet player or gun's beam.
+Revision history: 0.0 - Created document, and made basic methods, Start and Update()
+                  0.1 - Added reset method
+                  1.0 - Added Trigger Event for destruction
+                  1.1 - Added animation of explosion
+----------------------------------------------------------------------------*/
+
 public class BatContoller : MonoBehaviour {
 
     //Public instanc variables
